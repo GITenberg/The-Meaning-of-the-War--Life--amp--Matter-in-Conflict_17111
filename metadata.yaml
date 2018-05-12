@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1462
     wikipedia: http://en.wikipedia.org/wiki/Henri_Bergson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17111#The-Meaning-of-the-War--Life--amp--Matter-in-Conflict
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-11-20'
 gutenberg_type: Text
