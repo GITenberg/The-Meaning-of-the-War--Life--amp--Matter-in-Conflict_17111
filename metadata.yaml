@@ -1,0 +1,46 @@
+_repo: The-Meaning-of-the-War--Life--amp--Matter-in-Conflict_17111
+_version: 0.1.0
+alternative_title:
+- Signification de la guerre. English
+- Life and matter in conflict
+contributor:
+  commentator:
+    agent_name: Carr, Herbert Wildon
+    alias: Carr, H. Wildon (Herbert Wildon)
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '7145'
+    url: http://www.gutenberg.org/2009/agents/7145
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bergson, Henri
+    aliases:
+    - Bergson, Henri Louis
+    - Bergson, H. (Henri)
+    birthdate: 1859
+    deathdate: 1941
+    gutenberg_agent_id: '1462'
+    url: http://www.gutenberg.org/2009/agents/1462
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Bergson
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17111'
+  lccn: war15000162
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National characteristics, German'
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+tableOfContents: Introduction -- Life and matter at war -- The force which wastes
+  and that which does not waste.
+title: 'The Meaning of the War: Life & Matter in Conflict'
+url: http://www.gutenberg.org/ebooks/17111
